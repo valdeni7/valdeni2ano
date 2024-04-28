@@ -1,0 +1,104 @@
+*{
+    margin: 20;
+    padding: 20;
+
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+.cabecalho {
+    color: antiquewhite;
+    background-color: rgb(3, 226, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px 0;
+
+}
+
+.cabecalho-imagem{
+    width: 30%;
+}
+
+.cabecalho-lista-item a {
+    text-align:center;
+    text-decoration:none; 
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.loja-titulo{
+    text-align:center;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    font-size:30px;
+    margin: 20;
+
+}
+.loja-texto{
+    text-align:justify;
+    font-size: 18px;
+    padding: 5px 10;
+    margin: 20;
+
+}
+.loja-div-imagem { 
+    display:block;
+    padding: 24px 0;
+    
+}
+.loja-imagem {
+    display:block;
+    margin: auto;
+    width: 800px;
+    padding: 24px 0;
+}
+.aparelhos-titulo {
+    text-align:center;
+    padding: 24px 0;
+    color: rgb(253, 0, 0);
+    font-size: 30px;
+}
+.aparelhos-titulo1 {    
+    text-align:left;
+    padding: 24px 0;
+    color: rgb(0, 0, 0);
+    font-size: 20px;}
+
+.aparelhos-texto{
+     text-align:justify;
+     font-size: 18px;
+    padding: 5px 0;
+    }
+
+.iphone-14-Pro-Max-imagem {
+    display:block;
+    margin: auto;
+    width: 800px;
+    padding: 24px 0;
+}
+.xbox-series-x-imagem {
+    display:block;
+    margin: auto;
+    width: 800px;
+    padding: 24px 0;
+}
+
+.videos{
+    display:block;
+    margin: auto;
+}
+
+.rodape{
+    background-image: linear-gradient(#424E61,#16CFF8);
+}
+
+.nome-loja {
+    justify-content:center;
+    background-image: linear-gradient(#424E61,#16CFF8);
+    font-size: 20px; 
+
+}
+
